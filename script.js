@@ -1,5 +1,5 @@
 // Variables
-const apiKey = 'tu_api_key'; // Reemplaza con tu clave real
+const apiKey = '54fb37f0f575fcc31840ec316bff8962'; // Reemplaza con tu clave real
 const city = 'Madrid'; // Ciudad que se desea consultar
 const weatherInfo = document.getElementById('weather-info');
 const cropList = document.getElementById('crop-list');
